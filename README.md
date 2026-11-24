@@ -17,9 +17,9 @@ Structure: .env files with hidden keys management
 
 📌 Project Features
 -------------------
-With Gemini models is text sub basis chat.
+With Gemini models is text sub basis chat
 Trustworth demain and response schemas(Pydantic)
-Swagger UI ile otomatik API dokümantasyonu
+With Swagger UI auto API documentacion
 With Streamlit user support web interface
 API keys abstract expect of Cod(.env)
 
