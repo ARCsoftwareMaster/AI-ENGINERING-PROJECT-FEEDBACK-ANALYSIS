@@ -16,3 +16,12 @@ ai-agent/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+
+Project Library
+---------------
+fastapi	0.162.7
+google-genai	2.19.0	Gemini modellerine erişim
+pydantic	2.14.0	Veri doğrulama ve şemalar
+python-dotenv	1.2.2	.env dosyasından ortam değişkeni
+requests	2.34.2	Harici HTTP istekleri
+streamlit	1.67.0	Web arayüzü
