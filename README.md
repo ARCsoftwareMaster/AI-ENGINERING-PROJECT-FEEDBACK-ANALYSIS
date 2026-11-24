@@ -20,13 +20,13 @@ Structure: .env files with hidden keys management
 ai-agent/
 ├── app/
 │   ├── __init__.py
-│   ├── main.py          # FastAPI uygulaması ve endpoint'ler
-│   ├── agent.py         # Gemini ile iletişim kuran ajan mantığı
-│   ├── schemas.py       # Pydantic istek/yanıt modelleri
-│   └── config.py        # Ortam değişkenlerinin yüklenmesi
+│   ├── main.py          # FastAPI applications and endpoints
+│   ├── agent.py         # With Gemini establish community logic of agent
+│   ├── schemas.py       # Pydantic demain and response modelsi
+│   └── config.py        # Valueble of Atmospher load
 ├── ui/
-│   └── app.py           # Streamlit arayüzü
-├── .env.example         # Örnek ortam değişkenleri
+│   └── app.py           # Streamlit interface
+├── .env.example         # For example valuable of atmospher
 ├── .gitignore
 ├── requirements.txt
 └── README.md
