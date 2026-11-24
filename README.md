@@ -2,7 +2,7 @@
 ----------------
 
 # AI-ENGINERING-PROJECT-FEEDBACK-ANALYSIS
-I made  AI ENGIINERING about  a Feedback Analysis of AI Agents
+I made about AI ENGIINERING a Feedback Analysis of AI Agents
 
 📌 Project About
 ----------------
